@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,8BAEF,CACA,UAFE,iBAIF","file":"main.5fae28ea.chunk.css","sourcesContent":[".App {\n  font-family: \"Bree Serif\", serif;\n  text-align: center;\n}\n.div {\n  text-align: center;\n}\n"]}
